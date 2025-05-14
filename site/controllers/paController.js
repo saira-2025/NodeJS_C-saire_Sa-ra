@@ -1,7 +1,7 @@
 const paController = {
     getPaPage : (req , res) =>{
         res.render('accueil.ejs')
-    },
+    }
 }
 
 

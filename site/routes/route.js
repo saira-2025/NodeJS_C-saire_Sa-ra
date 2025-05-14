@@ -27,4 +27,5 @@ router.get('/accessoires', accessoiresController.getaccessoiresPage);
 
 
 
+
 module.exports = router;

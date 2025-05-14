@@ -1,7 +1,7 @@
 const hommesController = {
     gethommes : (req , res) =>{
         res.render('hommes.ejs')
-    },
+    }
 }
 
 
