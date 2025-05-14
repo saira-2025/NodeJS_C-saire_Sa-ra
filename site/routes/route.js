@@ -10,7 +10,7 @@ const router = express.Router();
 //mise en place d'une route
 router.get('/' , paController.getPaPage);
 
-//Mise en place de la route qui mène à la liste des classes
+//Mise en place de la route qui mène à 
 router.get('/femmes', femmesController.getfemmes);
 
 //Mise en place de la route qui mène à la liste des classes
