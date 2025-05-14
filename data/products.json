@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Petite section",
+        "description" : 1 ,
+        "prix" : 25
+    },
+ 
+        {
+        "id" : 2,
+        "nom" : "Petite section",
+        "description" : 1 ,
+        "prix" : 25
+    },
+
+        {
+        "id" : 3,
+        "nom" : "Petite section",
+        "description" : 1 ,
+        "prix" : 25
+    }
+ 
+ 
+
+]
+ 

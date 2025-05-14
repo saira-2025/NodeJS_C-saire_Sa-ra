@@ -1,0 +1,13 @@
+<%- include('partials/header.ejs') %>
+    <h1> Liste des produits </h1>
+   
+    <ul class="acces">
+    <% for(const accessoire of accessoires) {%>
+        <li class="access"><a href="/accessoiresdetails/<%= accessoire.id %>"> <%= accessoire.nom %></a> </li>
+    <% } %>
+
+</ul>
+
+
+
+<%- include('partials/footer.ejs') %>

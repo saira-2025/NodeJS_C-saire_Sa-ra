@@ -20,7 +20,8 @@ router.get('/hommes', hommesController.gethommes);
 router.get('/accessoires', accessoiresController.getaccessoiresPage);
 
 
-
+//détails d'une catégorie
+router.get('/accessoiresdetails/:id', accessoiresController.getaccessoiresDetails);
 
 
 
