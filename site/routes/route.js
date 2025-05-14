@@ -1,5 +1,5 @@
 const express = require('express');
-const paController = require('../controllers/paController.js');
+const paController = require('../controllers/paController');
 
 
 //Les routes à emprunter
