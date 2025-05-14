@@ -1,15 +1,57 @@
 h1{
-    color: red;
+    color: blue;
     text-align: center;
- }
- 
- ul{
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: chartreuse;
+    padding: 15px;
+}
+
+.button a{
+    color: black;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.cards{
     display: flex;
     list-style-type: none;
-    justify-content: space-around;
-    background-color: aquamarine;
-    padding: 15px;
+    flex-wrap: wrap;
+    padding-top: 5%;
+    text-align: center;
+    justify-content: center;
+}
+ 
+.accesss li{
+    width: 20%;
+    padding: 0.5rem;
+}
+ 
+.access a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+ 
+.acces{
+    margin: 5%;
+   background-color: rgb(0, 255, 98);
+   border-radius: 5px;
+   font-weight: bold;
+   font-size: 1.5rem;
+}
+
+
+.info{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 1.5rem;
  }
+ 
  
  
 footer{
@@ -17,10 +59,16 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: aquamarine;
-    color:black;
+    background-color: chartreuse;
+    color: black;
     position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
-    }
+    font-size: 2rem;
+}
+ 
+footer a{
+    text-decoration: none;
+    color: blue;
+}
