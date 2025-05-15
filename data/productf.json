@@ -2,23 +2,43 @@
     {
         "id" : 1,
         "nom" : "Robe",
-        "description" : "Robe made in Africa berceau de l'humanité" ,
-        "prix" : "80€"
+        "prix" : "80€",
+        "description" : "Exprimez votre personnalité avec nos robes élégantes et intemporelles ! Que vous recherchiez une robe de soirée sophistiquée, une robe décontractée pour l’été ou une robe chic pour le bureau, notre collection allie style et confort pour vous offrir une allure impeccable." 
+        
     },
  
     {
         "id" : 2,
        "nom" : "Jupe",
-        "description" : "Pour se sentir bien dans sa peau" ,
-        "prix" : "100€"
+       "prix" : "100€",
+        "description" : "Féminine et polyvalente, la jupe est l’alliée idéale pour toutes les occasions. De la mini-jupe audacieuse à la jupe midi élégante, en passant par la jupe plissée tendance, chaque modèle est conçu avec des matières fluides et confortables pour sublimer votre silhouette avec charme et assurance" 
+        
     },
  
     {
         "id" : 3,
        "nom" : "Chemise",
-        "description" : "Assortie avec tout type de tenue" ,
-        "prix" : "99€"
+       "prix" : "100€",
+        "description" : "Classique et indémodable, la chemise pour femme est un indispensable du dressing. Avec des coupes ajustées ou oversize, des motifs variés et des matières agréables, elle s’adapte à toutes vos envies, que ce soit pour un look casual, chic ou professionnel." 
+        
+    },
+
+    {
+        "id" : 4,
+       "nom" : "Tenue de sport",
+       "prix" : "110€",
+        "description" : "Confort, performance et style réunis ! Nos tenues de sport pour femmes sont conçues avec des tissus respirants et extensibles pour vous offrir une liberté de mouvement optimale. Que ce soit pour le yoga, le running ou la salle de sport, adoptez une tenue qui vous booste tout en restant élégante." 
+        
+    },
+ 
+    {
+        "id" : 5,
+       "nom" : "Veste",
+       "prix" : "180€",
+        "description" : "Ajoutez une touche de caractère à votre tenue avec nos vestes tendance. Blazer élégant, veste en cuir audacieuse ou veste matelassée pour l’hiver : chaque pièce est conçue pour allier confort, protection et style, en toute saison." 
+        
     }
+ 
  
  
 ]

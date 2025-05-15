@@ -2,22 +2,41 @@
     {
         "id" : 1,
         "nom" : "Pantalon",
-        "description" : "Adaper à toute occasion" ,
-        "prix" : "130€"
+        "prix" : "130€",
+        "description" : "Élégant et confortable, notre collection de pantalons pour hommes s’adapte à toutes les occasions. Que vous recherchiez un pantalon classique pour le bureau, un jean décontracté ou un chino stylé, nos modèles offrent une coupe parfaite et des matières de qualité pour un look impeccable." 
+        
     },
  
     {
         "id" : 2,
        "nom" : "Chemise",
-        "description" : "Pour tout type costume, made Vietnam" ,
-        "prix" : "140€"
+       "prix" : "140€",
+        "description" : "Classique et intemporelle, la chemise est le symbole du style masculin. Chemise habillée pour le bureau, chemise casual pour le week-end ou chemise en lin légère pour l’été : chaque modèle est conçu pour un confort optimal et une allure élégante." 
+        
     },
  
     {
         "id" : 3,
+       "nom" : "Short",
+       "prix" : "100€",
+        "description" : "Restez à l’aise et tendance avec nos shorts pensés pour l’été ou le sport. Entre le short en jean moderne, le bermuda chic ou le short de sport technique, chaque modèle assure un confort optimal et un look soigné pour affronter les journées ensoleillées avec style." 
+        
+    },
+
+    {
+        "id" : 4,
+       "nom" : "Costume",
+       "prix" : "140€",
+        "description" : "Raffinement et élégance définissent notre collection de costumes pour hommes. Avec des coupes ajustées, des tissus haut de gamme et des finitions soignées, nos costumes sont parfaits pour les grandes occasions, les réunions d’affaires ou un look sophistiqué au quotidien." 
+        
+    },
+ 
+    {
+        "id" : 5,
        "nom" : "T-Shirt",
-        "description" : "Assortie avec tout type de vetement de plage" ,
-        "prix" : "100€"
+       "prix" : "100€",
+        "description" : "L’essentiel du dressing masculin ! Nos t-shirts sont conçus pour allier confort et style. En coton doux et respirant, ils sont parfaits pour un look casual ou sportif. Disponibles en plusieurs couleurs et motifs, ils s’adaptent à toutes vos envies et deviennent vite un incontournable." 
+        
     }
  
  

@@ -2,22 +2,41 @@
     {
         "id" : 1,
         "nom" : "Lunette",
-        "description" : "Lunette d'ete adaptée à tout occasion" ,
-        "prix" : "25€"
+         "prix" : "250€",
+        "description" : "Offrez à vos yeux une protection optimale et un style inégalé avec nos lunettes de haute qualité. Que ce soit pour un look sophistiqué ou décontracté, nos montures légères et durables s’adaptent à toutes les occasions. Avec leurs verres anti-reflet et anti-UV, elles assurent un confort visuel exceptionnel tout en mettant en valeur votre personnalité" 
+       
     },
  
     {
         "id" : 2,
        "nom" : "Montre",
-        "description" : "Amoureux du luxe ou pas vous allez aimé" ,
-        "prix" : "150€"
+        "prix" : "150€",
+        "description" : "Affirmez votre style et votre ponctualité avec nos montres élégantes et fonctionnelles. Dotées d’un mécanisme précis et d’un design intemporel, elles s’accordent parfaitement à vos tenues, que ce soit en rendez-vous professionnel ou lors d’une sortie décontractée. Choisissez parmi des modèles classiques, sportifs ou luxueux pour refléter votre caractère unique." 
+       
     },
  
     {
         "id" : 3,
        "nom" : "Sac à main",
-        "description" : "Assortie avec tout type de vetement" ,
-        "prix" : "25€"
+       "prix" : "75€",
+        "description" : "L’accessoire incontournable pour transporter vos essentiels avec style et praticité. Nos sacs à main sont conçus avec des matériaux premium pour une durabilité optimale et un design tendance. Spacieux, fonctionnels et élégants, ils s’adaptent à toutes vos activités quotidiennes, du bureau aux sorties entre amis." 
+        
+    },
+
+    {
+        "id" : 4,
+       "nom" : "Chapeau",
+       "prix" : "50€",
+        "description" : "Ajoutez une touche de charme et d’originalité à votre tenue avec notre collection de chapeaux raffinés. Conçus avec des matériaux légers et confortables, ils offrent une protection contre le soleil tout en apportant une élégance naturelle. Fedora, béret, casquette ou panama : trouvez le style parfait pour votre look." 
+        
+    },
+ 
+    {
+        "id" : 3,
+       "nom" : "Colier",
+       "prix" : "25€",
+        "description" : "Mettez en valeur votre beauté et votre personnalité avec nos colliers raffinés. Que vous recherchiez une touche minimaliste ou un bijou audacieux, nos créations sont conçues pour sublimer votre allure. Des matériaux de qualité, des finitions délicates et un éclat unique : trouvez le collier idéal pour exprimer votre style." 
+        
     }
  
  
