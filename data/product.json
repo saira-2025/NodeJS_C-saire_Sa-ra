@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Lunette",
+        "description" : "Lunette d'ete adaptée à tout occasion" ,
+        "prix" : "25€"
+    },
+ 
+    {
+        "id" : 2,
+       "nom" : "Montre",
+        "description" : "Amoureux du luxe ou pas vous allez aimé" ,
+        "prix" : "150€"
+    },
+ 
+    {
+        "id" : 3,
+       "nom" : "Sac à main",
+        "description" : "Assortie avec tout type de vetement" ,
+        "prix" : "25€"
+    }
+ 
+ 
+]

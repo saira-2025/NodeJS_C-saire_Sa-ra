@@ -4,6 +4,7 @@ const accessoiresController = require('../controllers/accessoiresController');
 const femmesController = require('../controllers/femmesController');
 const hommesController = require('../controllers/hommesController');
 
+
 //Les routes à emprunter
 const router = express.Router();
 
@@ -21,7 +22,13 @@ router.get('/accessoires', accessoiresController.getaccessoiresPage);
 
 
 //détails d'une catégorie
-router.get('/accessoiresdetails/:id', accessoiresController.getaccessoiresDetails);
+router.get('/accessdetails/:id', accessoiresController.getAccessoireDetails);
+
+
+router.get('/fmdetails/:id', femmesController.getFemmesDetails);
+
+router.get('/hmdetails/:id', hommesController.getHommesDetails);
+
 
 
 

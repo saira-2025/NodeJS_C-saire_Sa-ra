@@ -2,4 +2,12 @@
     
     <h1>Vêtements pour hommes</h1>
 
+
+    <ul class="axe">
+        <% for(const homme of hommes) {%>
+            <li class="axes"> <a href="/hmDetails/<%=homme.id%>"> <%= homme.nom %></a></li>
+        <% } %>
+    </ul>
+
+
 <%- include('partials/footer.ejs') %>

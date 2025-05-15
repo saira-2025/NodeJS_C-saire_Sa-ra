@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Pantalon",
+        "description" : "Adaper à toute occasion" ,
+        "prix" : "130€"
+    },
+ 
+    {
+        "id" : 2,
+       "nom" : "Chemise",
+        "description" : "Pour tout type costume, made Vietnam" ,
+        "prix" : "140€"
+    },
+ 
+    {
+        "id" : 3,
+       "nom" : "T-Shirt",
+        "description" : "Assortie avec tout type de vetement de plage" ,
+        "prix" : "100€"
+    }
+ 
+ 
+]

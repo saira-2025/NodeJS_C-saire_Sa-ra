@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Robe",
+        "description" : "Robe made in Africa berceau de l'humanité" ,
+        "prix" : "80€"
+    },
+ 
+    {
+        "id" : 2,
+       "nom" : "Jupe",
+        "description" : "Pour se sentir bien dans sa peau" ,
+        "prix" : "100€"
+    },
+ 
+    {
+        "id" : 3,
+       "nom" : "Chemise",
+        "description" : "Assortie avec tout type de tenue" ,
+        "prix" : "99€"
+    }
+ 
+ 
+]
